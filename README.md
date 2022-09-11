@@ -1,5 +1,7 @@
 # Typora-Portable
 
+### mark by zhubeilife@gmail.com 能够稳定不提示liscense的版本应该是0.9.98beta版本
+
 > Typora has released 1.0+ version which requires license, this repo will be deprecated, the latest beta verson is 0.11.
 
 The portable version of [typora](https://typora.io/#windows), go to [Release](https://github.com/tobyqin/Typora-Portable/releases) page to download the zip package, then you are ready to go!
